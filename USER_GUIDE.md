@@ -3,7 +3,7 @@
 A CLI tool that sends fake but realistic signup funnel events to a GA4
 property via the Measurement Protocol, so you can practice DebugView,
 Realtime, Explorations, funnel reports, and BigQuery exports without a real
-app. See [signup-funnel-simulator-PRD.md](../signup-funnel-simulator-PRD.md)
+app. See [signup-funnel-simulator-PRD.md](signup-funnel-simulator-PRD.md)
 for the original spec and [RELEASE_NOTES.md](RELEASE_NOTES.md) for what's
 changed between versions.
 
