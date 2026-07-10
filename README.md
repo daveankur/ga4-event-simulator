@@ -51,7 +51,7 @@ python main.py
 ```
 
 Full flag reference, scenario walkthroughs, and how to verify data landed
-in GA4: [USER_GUIDE.md](ga4-signup-simulator/USER_GUIDE.md).
+in GA4: [USER_GUIDE.md](USER_GUIDE.md).
 
 ## Getting GA4 credentials
 
@@ -72,9 +72,9 @@ Use a **personal/practice GA4 property — never a production one.**
 
 ## Project docs
 
-- [USER_GUIDE.md](ga4-signup-simulator/USER_GUIDE.md) — full usage guide, every CLI flag, scenario details, verification steps.
-- [RELEASE_NOTES.md](ga4-signup-simulator/RELEASE_NOTES.md) — release diary (`x.y` versioning).
-- [ROADMAP.md](ga4-signup-simulator/ROADMAP.md) — ideas for future work, not yet built.
+- [USER_GUIDE.md](USER_GUIDE.md) — full usage guide, every CLI flag, scenario details, verification steps.
+- [RELEASE_NOTES.md](RELEASE_NOTES.md) — release diary (`x.y` versioning).
+- [ROADMAP.md](ROADMAP.md) — ideas for future work, not yet built.
 - [signup-funnel-simulator-PRD.md](signup-funnel-simulator-PRD.md) — the original product spec.
 
 ## Safety notes

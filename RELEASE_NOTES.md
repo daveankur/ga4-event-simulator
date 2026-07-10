@@ -79,7 +79,7 @@ change was made in this project.
 ## 1.0 — 2026-07-10
 
 **Initial release.** Full implementation of the PRD
-([signup-funnel-simulator-PRD.md](../signup-funnel-simulator-PRD.md)):
+([signup-funnel-simulator-PRD.md](signup-funnel-simulator-PRD.md)):
 
 - 5-event signup funnel (`signup_page_viewed` → `signup_step1_submitted` →
   `signup_step2_submitted` → `signup_verification` → `signup_completed`)
