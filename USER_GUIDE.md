@@ -1,9 +1,10 @@
-# GA4 Signup Funnel Simulator — User Guide
+# GA4 Event Simulator — User Guide
 
-A CLI tool that sends fake but realistic signup funnel events to a GA4
-property via the Measurement Protocol, so you can practice DebugView,
-Realtime, Explorations, funnel reports, and BigQuery exports without a real
-app. See [signup-funnel-simulator-PRD.md](signup-funnel-simulator-PRD.md)
+A CLI tool that sends fake but realistic events to a GA4 property via the
+Measurement Protocol, so you can practice DebugView, Realtime,
+Explorations, funnel reports, and BigQuery exports without a real app.
+This guide currently covers the signup funnel flow, its first
+implementation. See [signup-funnel-simulator-PRD.md](signup-funnel-simulator-PRD.md)
 for the original spec and [RELEASE_NOTES.md](RELEASE_NOTES.md) for what's
 changed between versions.
 
@@ -23,7 +24,7 @@ Use a **personal practice property**, not a production one.
 ### 1.2 Install dependencies
 
 ```bash
-cd ga4-signup-simulator
+cd ga4-event-simulator
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 ```
