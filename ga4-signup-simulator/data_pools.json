@@ -1,0 +1,6 @@
+{
+  "signup_method": ["email", "google", "microsoft"],
+  "email_domain": ["acme.com", "globex.io", "initech.co", "umbrella.net"],
+  "setup_option": ["self_setup", "guided_setup"],
+  "data_center": ["us", "eu", "aus"]
+}
